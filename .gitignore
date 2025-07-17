@@ -1,0 +1,34 @@
+# Ignorar caches e diretórios de build
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+build/
+dist/
+
+# Ignorar ambientes virtuais (venv, env, etc.)
+venv/
+.venv/
+env/
+
+# Ignorar arquivos de log
+*.log
+log/
+
+# Ignorar arquivos específicos do SO/editor
+.DS_Store
+.vscode/       # Se você NÃO quiser compartilhar suas configurações específicas do VS Code
+# Se você quiser compartilhar as configurações do VS Code (ex: tasks.json, launch.json),
+# mas ignorar arquivos de usuário, pode usar:
+# .vscode/*
+# !.vscode/settings.json
+# !.vscode/tasks.json
+# !.vscode/launch.json
+# !.vscode/extensions.json
+
+# Ignorar arquivos de configuração de ambiente (senhas, chaves API)
+.env
+.flaskenv
+
+# Ignorar arquivos de dependências (se usar Node.js, por exemplo)
+node_modules/
