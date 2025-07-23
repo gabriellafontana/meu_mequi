@@ -17,9 +17,7 @@ log/
 
 # Ignorar arquivos específicos do SO/editor
 .DS_Store
-.vscode/       # Se você NÃO quiser compartilhar suas configurações específicas do VS Code
-# Se você quiser compartilhar as configurações do VS Code (ex: tasks.json, launch.json),
-# mas ignorar arquivos de usuário, pode usar:
+.vscode/      
 # .vscode/*
 # !.vscode/settings.json
 # !.vscode/tasks.json
