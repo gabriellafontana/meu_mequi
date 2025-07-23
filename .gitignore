@@ -24,9 +24,9 @@ log/
 # !.vscode/launch.json
 # !.vscode/extensions.json
 
-# Ignorar arquivos de configuração de ambiente (senhas, chaves API)
+# Ignorar arquivos de configuração de ambiente
 .env
 .flaskenv
 
-# Ignorar arquivos de dependências (se usar Node.js, por exemplo)
+# Ignorar arquivos de dependências 
 node_modules/
