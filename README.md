@@ -1,12 +1,9 @@
-# Meu Mequi 🍔 (nome em desenvolvimento)
+Meu Mequi (nome em desenvolvimento)
 
 Um projeto em Python que simula a escolha aleatória de um pedido no McDonald's.  
 A ideia é gerar sugestões de combinações como "Big Mac + Batata Média + Coca Zero" para pessoas indecisas ou que querem variar o pedido.
-
 ---
-
-## 🚀 Como funciona
-
+ Como funciona
 O programa seleciona aleatoriamente um combo de:
 
 - 1 lanche
@@ -15,26 +12,14 @@ O programa seleciona aleatoriamente um combo de:
 
 Cada vez que o usuário roda o script, um novo "combo do dia" é apresentado.
 
----
-
-## ✅ Próximos passos (em desenvolvimento)
-
-- Criar uma interface gráfica simples (Tkinter, Kivy ou Streamlit)
-- Adicionar mais opções de lanches/acompanhamentos/bebidas
-- Permitir salvar pedidos favoritos
-- Versão web ou mobile futuramente
-
----
-
-## 🛠️ Tecnologias
+ Tecnologias
 
 - Python 3.x
 - `random` (biblioteca padrão)
 - (Em breve: Tkinter, Streamlit ou Kivy)
 
 ---
-
-## 📦 Como rodar o projeto
+ Como rodar o projeto
 
 1. Clone o repositório:
    ```bash
